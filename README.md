@@ -8,7 +8,7 @@ This data includes the infomation (ex: arrival time, destination, delay time, et
 First phase of this project is to summarize data of each variables:
 
 1. Carrier
-1-1 16 airlines
+  1-1 16 airlines
 
 2. Performance ( quantity vs. quality)
 2-1 Average speed
