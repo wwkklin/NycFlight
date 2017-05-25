@@ -8,27 +8,27 @@ This data includes the infomation (ex: arrival time, destination, delay time, et
 First phase of this project is to summarize data of each variables:
 
 1. Carrier
-16 airlines
+1-1 16 airlines
 
 2. Performance ( quantity vs. quality)
-Average speed
-Count of Delay
-Count of Early Arrival
+2-1 Average speed
+2-2 Count of Delay
+2-3 Count of Early Arrival
 
 3. The Property of Flight
-Year Manufactured
-Type of Engine
-Number of Engine
-Aircraft Weight
+3-1 Year Manufactured
+3-2 Type of Engine
+3-3 Number of Engine
+3-4 Aircraft Weight
 
 4. Time
-Month
-Date of the Month
-Time
+4-1 Month
+4-2 Date of the Month
+4-3 Time
 
 5. Location
-3 origin airports in NYC
-102 Designation
-Traveled distance 
+5-1 3 origin airports in NYC
+5-2 102 Designation
+5-3 Traveled distance 
 
 6. Weather Condition
