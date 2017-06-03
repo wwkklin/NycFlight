@@ -164,4 +164,4 @@ mydata_wkday %>%
   summarise_each(funs(min(.,na.rm= TRUE), max(., na.rm=TRUE)), matches("delay"),distance)
    
 
-
+123
