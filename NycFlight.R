@@ -162,5 +162,6 @@ mydata_wkday %>%
 mydata_wkday %>% 
   group_by(carrier) %>% 
   summarise_each(funs(min(.,na.rm= TRUE), max(., na.rm=TRUE)), matches("delay"),distance)
+   
 
 
